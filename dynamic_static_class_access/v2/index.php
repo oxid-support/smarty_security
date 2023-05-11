@@ -1,10 +1,6 @@
 <?php
 
-namespace v2;
-
-use v2\vendor\smarty\smarty\libs\Smarty;
-
-require_once 'vendor/autoload.php';
+require_once './vendor/autoload.php';
 
 $smarty = new Smarty();
 
